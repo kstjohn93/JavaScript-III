@@ -2,6 +2,8 @@
 
 This challenge focuses on using the `this` keyword as well as getting comfortable with prototypes by building out a fantasy themed video game.
 
+I love Video Games!
+
 ## Set Up The Project With Git
 
 **Follow these steps to set up and work on your project:**
