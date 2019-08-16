@@ -53,6 +53,7 @@ function Pets(attrs) {
     kind: "cat",
     food: "cat food"
   });
+  
   console.log(dog.name);
   console.log(cat.name);
   console.log(dog.speak.call(cat));
